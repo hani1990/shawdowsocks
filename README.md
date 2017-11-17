@@ -23,7 +23,7 @@
 
 我是一名互联网从业者，能够搭建vpn，免费分享几个vpn账号给大家。每个账号5G流量，用完为止。需自行下载 Shadowsocks 客户端。
 
-域名：ss.23read.space
+域名：usa.la.23read.space
 
 端口：9010
 
@@ -31,7 +31,9 @@
 
 密码：cyjvpn001
 
-域名：ss.23read.space
+
+
+域名：sg.23read.space
 
 端口：9011
 
@@ -39,7 +41,9 @@
 
 密码：cyjvpn002
 
-域名：ss.23read.space
+
+
+域名：sg.23read.space
 
 端口：9012
 
@@ -47,13 +51,17 @@
 
 密码：cyjvpn003
 
-域名：ss.23read.space
+
+
+域名：sg.23read.space
 
 端口：9013
 
 加密: aes-256-cfb
 
 密码：cyjvpn004
+
+
 
 域名：ss.23read.space
 
